@@ -19,3 +19,4 @@ What else would you have liked to improve given more time?
    2. I would use Formik with yup to validate inputs of the form
    3. I would use KeyboardAvoidingView, to allow scrolling in the Sign In screen when keyboard is open
    4. I would also create some unit tests given more time, but I don't have much experience with unit tests, just some independent excercises on my own, but not required at work.
+   5. I would use Redux for state management if the project was bigger, and also I would divide the code in smaller components.
